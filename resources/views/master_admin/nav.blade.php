@@ -3,7 +3,7 @@
                         <div class="topbar-left	d-none d-lg-block">
                             <div class="text-center">
                                 
-                                <a href="{{route('master_admin_dashboard')}}" class="logo"><img src="{{asset('assets/images/ideal.jpeg')}}    " height="50" alt="logo"></a>
+                                <a href="{{route('master_admin_dashboard')}}" class="logo"><img src="{{asset('assets/images/ideal.png')}}    " height="65" alt="logo"></a>
                             </div>
                         </div>
 
